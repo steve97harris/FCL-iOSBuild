@@ -1578,10 +1578,6 @@ void RegisterAllStrippedInternalCalls()
 		void Register_UnityEngine_RemoteConfigSettings_Internal_Create();
 		Register_UnityEngine_RemoteConfigSettings_Internal_Create();
 
-		//System.String UnityEngine.RemoteConfigSettings::GetString(System.String,System.String)
-		void Register_UnityEngine_RemoteConfigSettings_GetString();
-		Register_UnityEngine_RemoteConfigSettings_GetString();
-
 		//System.Void UnityEngine.RemoteConfigSettings::ForceUpdate()
 		void Register_UnityEngine_RemoteConfigSettings_ForceUpdate();
 		Register_UnityEngine_RemoteConfigSettings_ForceUpdate();

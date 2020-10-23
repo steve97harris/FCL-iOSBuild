@@ -87,29 +87,27 @@ extern void RemoteConfigSettings_QueueConfig_m79BEA364B1173AB16FCF4B3DC45F92FB2D
 extern void RemoteConfigSettings_SendDeviceInfoInConfigRequest_m9FCE000C173A106AD170644064604D8A6AB1000B ();
 // 0x00000022 System.Void UnityEngine.RemoteConfigSettings::ForceUpdate()
 extern void RemoteConfigSettings_ForceUpdate_mB0FCC2A561ABBED2DA29A76021F530340B021C00 ();
-// 0x00000023 System.String UnityEngine.RemoteConfigSettings::GetString(System.String,System.String)
-extern void RemoteConfigSettings_GetString_m1BDF1AEAC50EA92B0E894ACAFDAF224C55C040EE ();
-// 0x00000024 System.Void UnityEngine.Analytics.AnalyticsSessionInfo::CallSessionStateChanged(UnityEngine.Analytics.AnalyticsSessionState,System.Int64,System.Int64,System.Boolean)
+// 0x00000023 System.Void UnityEngine.Analytics.AnalyticsSessionInfo::CallSessionStateChanged(UnityEngine.Analytics.AnalyticsSessionState,System.Int64,System.Int64,System.Boolean)
 extern void AnalyticsSessionInfo_CallSessionStateChanged_m0BB9DA7C334B5E13F34D68F2CABB34AF96AFFBBB ();
-// 0x00000025 System.Void UnityEngine.Analytics.AnalyticsSessionInfo::CallIdentityTokenChanged(System.String)
+// 0x00000024 System.Void UnityEngine.Analytics.AnalyticsSessionInfo::CallIdentityTokenChanged(System.String)
 extern void AnalyticsSessionInfo_CallIdentityTokenChanged_m99E4FA7768A4EF033190C28E87A480DDFA67FEF2 ();
-// 0x00000026 System.Void UnityEngine.Analytics.AnalyticsSessionInfo_SessionStateChanged::.ctor(System.Object,System.IntPtr)
+// 0x00000025 System.Void UnityEngine.Analytics.AnalyticsSessionInfo_SessionStateChanged::.ctor(System.Object,System.IntPtr)
 extern void SessionStateChanged__ctor_m20755FFAAF071B0C0C5CB8001E00235A68631E87 ();
-// 0x00000027 System.Void UnityEngine.Analytics.AnalyticsSessionInfo_SessionStateChanged::Invoke(UnityEngine.Analytics.AnalyticsSessionState,System.Int64,System.Int64,System.Boolean)
+// 0x00000026 System.Void UnityEngine.Analytics.AnalyticsSessionInfo_SessionStateChanged::Invoke(UnityEngine.Analytics.AnalyticsSessionState,System.Int64,System.Int64,System.Boolean)
 extern void SessionStateChanged_Invoke_mC75D45C1580508D5A628BA0D959E7FC937972343 ();
-// 0x00000028 System.IAsyncResult UnityEngine.Analytics.AnalyticsSessionInfo_SessionStateChanged::BeginInvoke(UnityEngine.Analytics.AnalyticsSessionState,System.Int64,System.Int64,System.Boolean,System.AsyncCallback,System.Object)
+// 0x00000027 System.IAsyncResult UnityEngine.Analytics.AnalyticsSessionInfo_SessionStateChanged::BeginInvoke(UnityEngine.Analytics.AnalyticsSessionState,System.Int64,System.Int64,System.Boolean,System.AsyncCallback,System.Object)
 extern void SessionStateChanged_BeginInvoke_m1FC5FEA2CB085F8EB742E87CAED9E6EDA0A4CB06 ();
-// 0x00000029 System.Void UnityEngine.Analytics.AnalyticsSessionInfo_SessionStateChanged::EndInvoke(System.IAsyncResult)
+// 0x00000028 System.Void UnityEngine.Analytics.AnalyticsSessionInfo_SessionStateChanged::EndInvoke(System.IAsyncResult)
 extern void SessionStateChanged_EndInvoke_mD526629995FB93D3E61F98B43D56805F22CCBCE9 ();
-// 0x0000002A System.Void UnityEngine.Analytics.AnalyticsSessionInfo_IdentityTokenChanged::.ctor(System.Object,System.IntPtr)
+// 0x00000029 System.Void UnityEngine.Analytics.AnalyticsSessionInfo_IdentityTokenChanged::.ctor(System.Object,System.IntPtr)
 extern void IdentityTokenChanged__ctor_m11460EC0DCF16CC424C6CECFDFE8862E0EB6133A ();
-// 0x0000002B System.Void UnityEngine.Analytics.AnalyticsSessionInfo_IdentityTokenChanged::Invoke(System.String)
+// 0x0000002A System.Void UnityEngine.Analytics.AnalyticsSessionInfo_IdentityTokenChanged::Invoke(System.String)
 extern void IdentityTokenChanged_Invoke_m73580C534C2D30CFA7F455946EF94F4978DC991B ();
-// 0x0000002C System.IAsyncResult UnityEngine.Analytics.AnalyticsSessionInfo_IdentityTokenChanged::BeginInvoke(System.String,System.AsyncCallback,System.Object)
+// 0x0000002B System.IAsyncResult UnityEngine.Analytics.AnalyticsSessionInfo_IdentityTokenChanged::BeginInvoke(System.String,System.AsyncCallback,System.Object)
 extern void IdentityTokenChanged_BeginInvoke_m996658BCDA945DC240BB8DCCEB74237B1B3ECBDB ();
-// 0x0000002D System.Void UnityEngine.Analytics.AnalyticsSessionInfo_IdentityTokenChanged::EndInvoke(System.IAsyncResult)
+// 0x0000002C System.Void UnityEngine.Analytics.AnalyticsSessionInfo_IdentityTokenChanged::EndInvoke(System.IAsyncResult)
 extern void IdentityTokenChanged_EndInvoke_m7103AA2B42EE8FD1C80047657E4EABB635243872 ();
-static Il2CppMethodPointer s_methodPointers[45] = 
+static Il2CppMethodPointer s_methodPointers[44] = 
 {
 	RemoteSettings_add_Updated_mB05C0ABC6FDA4301FB6274CAF240C398B095208A,
 	RemoteSettings_remove_Updated_m0D581B4E9331F45F7AF8A90D8CCFB6B50302FBFB,
@@ -145,7 +143,6 @@ static Il2CppMethodPointer s_methodPointers[45] =
 	RemoteConfigSettings_QueueConfig_m79BEA364B1173AB16FCF4B3DC45F92FB2DE45A87,
 	RemoteConfigSettings_SendDeviceInfoInConfigRequest_m9FCE000C173A106AD170644064604D8A6AB1000B,
 	RemoteConfigSettings_ForceUpdate_mB0FCC2A561ABBED2DA29A76021F530340B021C00,
-	RemoteConfigSettings_GetString_m1BDF1AEAC50EA92B0E894ACAFDAF224C55C040EE,
 	AnalyticsSessionInfo_CallSessionStateChanged_m0BB9DA7C334B5E13F34D68F2CABB34AF96AFFBBB,
 	AnalyticsSessionInfo_CallIdentityTokenChanged_m99E4FA7768A4EF033190C28E87A480DDFA67FEF2,
 	SessionStateChanged__ctor_m20755FFAAF071B0C0C5CB8001E00235A68631E87,
@@ -157,7 +154,7 @@ static Il2CppMethodPointer s_methodPointers[45] =
 	IdentityTokenChanged_BeginInvoke_m996658BCDA945DC240BB8DCCEB74237B1B3ECBDB,
 	IdentityTokenChanged_EndInvoke_m7103AA2B42EE8FD1C80047657E4EABB635243872,
 };
-static const int32_t s_InvokerIndices[45] = 
+static const int32_t s_InvokerIndices[44] = 
 {
 	159,
 	159,
@@ -193,7 +190,6 @@ static const int32_t s_InvokerIndices[45] =
 	1970,
 	49,
 	23,
-	105,
 	1971,
 	159,
 	131,
@@ -209,7 +205,7 @@ extern const Il2CppCodeGenModule g_UnityEngine_UnityAnalyticsModuleCodeGenModule
 const Il2CppCodeGenModule g_UnityEngine_UnityAnalyticsModuleCodeGenModule = 
 {
 	"UnityEngine.UnityAnalyticsModule.dll",
-	45,
+	44,
 	s_methodPointers,
 	s_InvokerIndices,
 	0,

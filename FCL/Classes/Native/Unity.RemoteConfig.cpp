@@ -32,17 +32,6 @@ struct InterfaceActionInvoker0
 		((Action)invokeData.methodPtr)(obj, invokeData.method);
 	}
 };
-template <typename R, typename T1, typename T2>
-struct InterfaceFuncInvoker2
-{
-	typedef R (*Func)(void*, T1, T2, const RuntimeMethod*);
-
-	static inline R Invoke (Il2CppMethodSlot slot, RuntimeClass* declaringInterface, RuntimeObject* obj, T1 p1, T2 p2)
-	{
-		const VirtualInvokeData& invokeData = il2cpp_codegen_get_interface_invoke_data(slot, obj, declaringInterface);
-		return ((Func)invokeData.methodPtr)(obj, p1, p2, invokeData.method);
-	}
-};
 
 // System.AsyncCallback
 struct AsyncCallback_tA7921BEF974919C46FF8F9D9867C567B200BB0EA;
@@ -135,7 +124,6 @@ IL2CPP_EXTERN_C const uint32_t RemoteConfigRequest_add_Completed_mE9F093D5347912
 IL2CPP_EXTERN_C const uint32_t RemoteConfigRequest_remove_BeforeFetchFromServer_mB3069311C0F726CB30B41DA669BCAED18412D64C_MetadataUsageId;
 IL2CPP_EXTERN_C const uint32_t RemoteConfigRequest_remove_Completed_m9C6ED277033A2B85E52EE61C1B2481D1F62335B2_MetadataUsageId;
 IL2CPP_EXTERN_C const uint32_t RuntimeConfig_ForceUpdate_m18F5F20872C77A0B2CD67A97D70018B129C56697_MetadataUsageId;
-IL2CPP_EXTERN_C const uint32_t RuntimeConfig_GetString_m029FFBFC6C7292ADD821E9031DEB20BB77DCFF3C_MetadataUsageId;
 IL2CPP_EXTERN_C const uint32_t RuntimeConfig__ctor_m6052481120B8A4EF3395F1205BF4F9381104E385_MetadataUsageId;
 struct Delegate_t_marshaled_com;
 struct Delegate_t_marshaled_pinvoke;
@@ -1019,8 +1007,6 @@ inline void Action_1__ctor_m2A1B34C27CAE6ED7FD924E5F59C0A1ACBBF22C38 (Action_1_t
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void RemoteConfigSettings_add_Updated_mA873BB71C67D1F91DB7CE75768529E7685713890 (RemoteConfigSettings_tAA5BDD4B4E416F9907EB1B5E6295157CD224A932 * __this, Action_1_tCE2D770918A65CAD277C08C4E8C05385EA267E83 * ___value0, const RuntimeMethod* method);
 // System.Void UnityEngine.RemoteConfigSettings::ForceUpdate()
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void RemoteConfigSettings_ForceUpdate_mB0FCC2A561ABBED2DA29A76021F530340B021C00 (RemoteConfigSettings_tAA5BDD4B4E416F9907EB1B5E6295157CD224A932 * __this, const RuntimeMethod* method);
-// System.String UnityEngine.RemoteConfigSettings::GetString(System.String,System.String)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR String_t* RemoteConfigSettings_GetString_m1BDF1AEAC50EA92B0E894ACAFDAF224C55C040EE (RemoteConfigSettings_tAA5BDD4B4E416F9907EB1B5E6295157CD224A932 * __this, String_t* ___key0, String_t* ___defaultValue1, const RuntimeMethod* method);
 // System.Void System.Action`1<System.Boolean>::Invoke(!0)
 inline void Action_1_Invoke_m95E5C9FC67F7B0BDC3CD5E00AC5D4C8A00C97AC5 (Action_1_tCE2D770918A65CAD277C08C4E8C05385EA267E83 * __this, bool ___obj0, const RuntimeMethod* method)
 {
@@ -1577,28 +1563,6 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void RCConfig_ForceUpdate_m40BF9A9AFAE0F111DA
 		return;
 	}
 }
-// System.String Unity.RemoteConfig.RCConfig::GetString(System.String,System.String)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR String_t* RCConfig_GetString_mD7ACE5D93788F4D33986C69E0E17D1C28FB36882 (RCConfig_tF24ACDF2566550F6B6A384EFCCAF32BF3816B008 * __this, String_t* ___key0, String_t* ___defaultValue1, const RuntimeMethod* method)
-{
-	String_t* V_0 = NULL;
-	{
-		// return _remoteConfigSettings.GetString(key, defaultValue);
-		RemoteConfigSettings_tAA5BDD4B4E416F9907EB1B5E6295157CD224A932 * L_0 = __this->get__remoteConfigSettings_1();
-		String_t* L_1 = ___key0;
-		String_t* L_2 = ___defaultValue1;
-		NullCheck(L_0);
-		String_t* L_3 = RemoteConfigSettings_GetString_m1BDF1AEAC50EA92B0E894ACAFDAF224C55C040EE(L_0, L_1, L_2, /*hidden argument*/NULL);
-		V_0 = L_3;
-		goto IL_0011;
-	}
-
-IL_0011:
-	{
-		// }
-		String_t* L_4 = V_0;
-		return L_4;
-	}
-}
 // System.Void Unity.RemoteConfig.RCConfig::<.ctor>b__4_0(System.Boolean)
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void RCConfig_U3C_ctorU3Eb__4_0_m4FBE5DE080518F56F841EE084609AD98417C4F28 (RCConfig_tF24ACDF2566550F6B6A384EFCCAF32BF3816B008 * __this, bool ___wasUpdatedFromServer0, const RuntimeMethod* method)
 {
@@ -2052,34 +2016,6 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void RuntimeConfig_ForceUpdate_m18F5F20872C77
 		InterfaceActionInvoker0::Invoke(2 /* System.Void Unity.RemoteConfig.IRemoteConfigSettings::ForceUpdate() */, IRemoteConfigSettings_t2D2345D62BAAE735F4DC7C04A0D76C4B7BA79302_il2cpp_TypeInfo_var, L_0);
 		// }
 		return;
-	}
-}
-// System.String Unity.RemoteConfig.RuntimeConfig::GetString(System.String,System.String)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR String_t* RuntimeConfig_GetString_m029FFBFC6C7292ADD821E9031DEB20BB77DCFF3C (RuntimeConfig_t41CBF8AE762FA3292624C297F3B85ADCB5A91E9C * __this, String_t* ___key0, String_t* ___defaultValue1, const RuntimeMethod* method)
-{
-	static bool s_Il2CppMethodInitialized;
-	if (!s_Il2CppMethodInitialized)
-	{
-		il2cpp_codegen_initialize_method (RuntimeConfig_GetString_m029FFBFC6C7292ADD821E9031DEB20BB77DCFF3C_MetadataUsageId);
-		s_Il2CppMethodInitialized = true;
-	}
-	String_t* V_0 = NULL;
-	{
-		// return config.GetString(key, defaultValue);
-		RuntimeObject* L_0 = ((RuntimeConfig_t41CBF8AE762FA3292624C297F3B85ADCB5A91E9C_StaticFields*)il2cpp_codegen_static_fields_for(RuntimeConfig_t41CBF8AE762FA3292624C297F3B85ADCB5A91E9C_il2cpp_TypeInfo_var))->get_config_1();
-		String_t* L_1 = ___key0;
-		String_t* L_2 = ___defaultValue1;
-		NullCheck(L_0);
-		String_t* L_3 = InterfaceFuncInvoker2< String_t*, String_t*, String_t* >::Invoke(3 /* System.String Unity.RemoteConfig.IRemoteConfigSettings::GetString(System.String,System.String) */, IRemoteConfigSettings_t2D2345D62BAAE735F4DC7C04A0D76C4B7BA79302_il2cpp_TypeInfo_var, L_0, L_1, L_2);
-		V_0 = L_3;
-		goto IL_0010;
-	}
-
-IL_0010:
-	{
-		// }
-		String_t* L_4 = V_0;
-		return L_4;
 	}
 }
 #ifdef __clang__

@@ -1425,16 +1425,6 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void RemoteConfigSettings_ForceUpdate_mB0FCC2
 	_il2cpp_icall_func = (RemoteConfigSettings_ForceUpdate_mB0FCC2A561ABBED2DA29A76021F530340B021C00_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.RemoteConfigSettings::ForceUpdate()");
 	_il2cpp_icall_func(__this);
 }
-// System.String UnityEngine.RemoteConfigSettings::GetString(System.String,System.String)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR String_t* RemoteConfigSettings_GetString_m1BDF1AEAC50EA92B0E894ACAFDAF224C55C040EE (RemoteConfigSettings_tAA5BDD4B4E416F9907EB1B5E6295157CD224A932 * __this, String_t* ___key0, String_t* ___defaultValue1, const RuntimeMethod* method)
-{
-	typedef String_t* (*RemoteConfigSettings_GetString_m1BDF1AEAC50EA92B0E894ACAFDAF224C55C040EE_ftn) (RemoteConfigSettings_tAA5BDD4B4E416F9907EB1B5E6295157CD224A932 *, String_t*, String_t*);
-	static RemoteConfigSettings_GetString_m1BDF1AEAC50EA92B0E894ACAFDAF224C55C040EE_ftn _il2cpp_icall_func;
-	if (!_il2cpp_icall_func)
-	_il2cpp_icall_func = (RemoteConfigSettings_GetString_m1BDF1AEAC50EA92B0E894ACAFDAF224C55C040EE_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.RemoteConfigSettings::GetString(System.String,System.String)");
-	String_t* retVal = _il2cpp_icall_func(__this, ___key0, ___defaultValue1);
-	return retVal;
-}
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
