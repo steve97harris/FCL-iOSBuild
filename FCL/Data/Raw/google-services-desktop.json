@@ -1,0 +1,37 @@
+{
+  "client": [
+    {
+      "services": {
+        "appinvite_service": {
+          "status": 1
+        }, 
+        "analytics_service": {
+          "status": 0
+        }
+      }, 
+      "oauth_client": [
+        {
+          "client_id": "93929825530-onoqlo182qkq9ch11v5p1u0d2hetlrco.apps.googleusercontent.com"
+        }
+      ], 
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIHqvD0Lx4kioMsIMY5mTimpHk-OKNS_s"
+        }
+      ], 
+      "client_info": {
+        "mobilesdk_app_id": "1:93929825530:ios:702156812e4fcb69821543", 
+        "android_client_info": {
+          "package_name": "com.steveharrisLtd.FCL"
+        }
+      }
+    }
+  ], 
+  "configuration_version": "1", 
+  "project_info": {
+    "storage_bucket": "fantasychampionsleague.appspot.com", 
+    "project_id": "fantasychampionsleague", 
+    "firebase_url": "https://fantasychampionsleague.firebaseio.com", 
+    "project_number": "93929825530"
+  }
+}

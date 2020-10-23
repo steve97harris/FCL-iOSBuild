@@ -1,0 +1,354 @@
+Team,PlayerName,TotalPoints,RemoteConfigKey
+BayernMunich,Ron-Thorben Hoffmann,0,10001
+BayernMunich,Manuel Neuer,0,10002
+BayernMunich,Sven Ulreich,0,10003
+BayernMunich,David Alaba,0,10004
+BayernMunich,Jerome Boateng,0,10005
+BayernMunich,Alphonso Davies,0,10006
+BayernMunich,Lucas Hernandez,0,10007
+BayernMunich,Joshua Kimmich,0,10008
+BayernMunich,Lars Lukas Mai,0,10009
+BayernMunich,Odriozola,0,10010
+BayernMunich,Benjamin Pavard,0,10011
+BayernMunich,Chris Richards,0,10012
+BayernMunich,Niklas Sule,0,10013
+BayernMunich,Mickael Cuisance,0,10014
+BayernMunich,Leon Goretzka,0,10015
+BayernMunich,Javi Martinez,0,10016
+BayernMunich,Jamal Musiala,0,10017
+BayernMunich,Sarpreet Singh,0,10018
+BayernMunich,Thiago,0,10019
+BayernMunich,Corentin Tolisso,0,10020
+BayernMunich,Paul Will,0,10021
+BayernMunich,Jann-Fiete Arp,0,10022
+BayernMunich,Oliver Batista-Meier,0,10023
+BayernMunich,Kingsley Coman,0,10024
+BayernMunich,Leon Dajaku,0,10025
+BayernMunich,Serge Gnabry,0,10026
+BayernMunich,Woo-yeong Jeong,0,10027
+BayernMunich,Robert Lewandowski,0,10028
+BayernMunich,Thomas Muller,0,10029
+BayernMunich,Ivan Perisic,0,10030
+BayernMunich,Kwasi Wriedt,0,10031
+BayernMunich,Joshua Zirkzee,0,10032
+Dortmund,Roman Burki,0,10033
+Dortmund,Marwin Hitz,0,10034
+Dortmund,Luca Unbehaun,0,10035
+Dortmund,Manuel Akanji,0,10036
+Dortmund,Mats Hummels,0,10037
+Dortmund,Mateu Morey,0,10038
+Dortmund,Thomas Meunier,0,10039
+Dortmund,Felix Passlack,0,10040
+Dortmund,Lukasz Piszczek,0,10041
+Dortmund,Marcel Schmelzer,0,10042
+Dortmund,Nico Schulz,0,10043
+Dortmund,Dan-Axel Zagadou,0,10044
+Dortmund,Jude Bellingham,0,10045
+Dortmund,Julian Brandt,0,10046
+Dortmund,Emre Can,0,10047
+Dortmund,Mahmoud Dahoud,0,10048
+Dortmund,Thomas Delaney,0,10049
+Dortmund,Raphael Guerreiro,0,10050
+Dortmund,Immanuel Pherai,0,10051
+Dortmund,Tobias Raschl,0,10052
+Dortmund,Reinier,0,10053
+Dortmund,Giovanni Reyna,0,10054
+Dortmund,Sergio Gomez,0,10055
+Dortmund,Axel Witsel,0,10056
+Dortmund,Erling Haaland,0,10057
+Dortmund,Thorgan Hazard,0,10058
+Dortmund,Marco Reus,0,10059
+Dortmund,Jadon Sancho,0,10060
+Dortmund,Marius Wolf,0,10061
+Liverpool,Adrián,0,10062
+Liverpool,Alisson,0,10063
+Liverpool,Loris Karius,0,10064
+Liverpool,Caoimhin Kelleher,0,10065
+Liverpool,Trent Alexander-Arnold,0,10066
+Liverpool,Joe Gomez,0,10067
+Liverpool,Ki-Jana Hoever,0,10068
+Liverpool,Joel Matip,0,10069
+Liverpool,Nathan Phillips,0,10070
+Liverpool,Andrew Robertson,0,10071
+Liverpool,Kostas Tsimikas,0,10072
+Liverpool,Sepp van den Berg,0,10073
+Liverpool,Virgil van Dijk,0,10074
+Liverpool,Neco Williams,0,10075
+Liverpool,Isaac Christie-Davies,0,10076
+Liverpool,Ovie Ejaria,0,10077
+Liverpool,Fabinho,0,10078
+Liverpool,Marko Grujic,0,10079
+Liverpool,Jordan Henderson,0,10080
+Liverpool,Curtis Jones,0,10081
+Liverpool,Naby Keita,0,10082
+Liverpool,James Milner,0,10083
+Liverpool,Alex Oxlade-Chamberlain,0,10084
+Liverpool,Georginio Wijnaldum,0,10085
+Liverpool,Rhian Brewster,0,10086
+Liverpool,Sadio Mane,0,10087
+Liverpool,Liam Millar,0,10088
+Liverpool,Takumi Minamino,0,10089
+Liverpool,Sheyi Ojo,0,10090
+Liverpool,Divock Origi,0,10091
+Liverpool,Roberto Firmino,0,10092
+Liverpool,Mohamed Salah,0,10093
+Liverpool,Xherdan Shaqiri,0,10094
+Liverpool,Harry Wilson,0,10095
+Liverpool,Ben Woodburn,0,10096
+ManCity,Claudio Bravo,0,10097
+ManCity,Scott Carson,0,10098
+ManCity,Ederson,0,10099
+ManCity,Aro Muric,0,10100
+ManCity,Zack Steffen,0,10101
+ManCity,Tosin Adarabioyo,0,10102
+ManCity,Nathan Ake,0,10103
+ManCity,Eric Garcia,0,10104
+ManCity,Taylor Harwood-Bellis,0,10105
+ManCity,Joao Cancelo,0,10106
+ManCity,Aymeric Laporte,0,10107
+ManCity,Benjamin Mendy,0,10108
+ManCity,Nicolas Otamendi,0,10109
+ManCity,Philippe Sandler,0,10110
+ManCity,John Stones,0,10111
+ManCity,Kyle Walker,0,10112
+ManCity,Yan Couto,0,10113
+ManCity,Oleksandr Zinchenko,0,10114
+ManCity,Adrian Bernabe,0,10115
+ManCity,Kevin De Bruyne,0,10116
+ManCity,Tommy Doyle,0,10117
+ManCity,Fernandinho,0,10118
+ManCity,Phil Foden,0,10119
+ManCity,Ilkay Gundogan,0,10120
+ManCity,Luka Ilic,0,10121
+ManCity,Riyad Mahrez,0,10122
+ManCity,Ryotaro Meshino,0,10123
+ManCity,Ante Palaversa,0,10124
+ManCity,Cole Palmer,0,10125
+ManCity,Rodri,0,10126
+ManCity,Kun Aguero,0,10127
+ManCity,Bernardo Silva,0,10128
+ManCity,Ferran Torres,0,10129
+ManCity,Gabriel Jesus,0,10130
+ManCity,Jack Harrison,0,10131
+ManCity,Marlos Moreno,0,10132
+ManCity,Patrick Roberts,0,10133
+ManCity,Raheem Sterling,0,10134
+Barcelona,Arnau Tenas,0,10135
+Barcelona,Inaki Pena,0,10136
+Barcelona,Neto,0,10137
+Barcelona,Marc-Andre ter Stegen,0,10138
+Barcelona,Akieme,0,10139
+Barcelona,Ronald Araujo,0,10140
+Barcelona,Dani Morer,0,10141
+Barcelona,Junior Firpo,0,10142
+Barcelona,Jordi Alba,0,10143
+Barcelona,Jorge Cuenca,0,10144
+Barcelona,Clement Lenglet,0,10145
+Barcelona,Nelson Semedo,0,10146
+Barcelona,Oscar Mingueza,0,10147
+Barcelona,Pique,0,10148
+Barcelona,Sergi Roberto,0,10149
+Barcelona,Jean-Clair Todibo,0,10150
+Barcelona,Samuel Umtiti,0,10151
+Barcelona,Moussa Wague,0,10152
+Barcelona,Busquets,0,10153
+Barcelona,Carles Alena,0,10154
+Barcelona,Frenkie de Jong,0,10155
+Barcelona,Phillipe Coutinho,0,10156
+Barcelona,Jandro Orellana,0,10157
+Barcelona,Matheus Fernandes,0,10158
+Barcelona,Monchu,0,10159
+Barcelona,Rafinha,0,10160
+Barcelona,Ivan Rakitic,0,10161
+Barcelona,Ludovit Reis,0,10162
+Barcelona,Riqui Puig,0,10163
+Barcelona,Arturo Vidal,0,10164
+Barcelona,Alex Collado,0,10165
+Barcelona,Martin Braithwaite,0,10166
+Barcelona,Konrad de la Fuente,0,10167
+Barcelona,Ousmane Dembélé,0,10168
+Barcelona,Ansu Fati,0,10169
+Barcelona,Antoine Griezmann,0,10170
+Barcelona,Rey Manaj,0,10171
+Barcelona,Lionel Messi,0,10172
+Barcelona,Pedri,0,10173
+Barcelona,Luis Suarez,0,10174
+Barcelona,Trincao,0,10175
+RealMadrid,Altube,0,10176
+RealMadrid,Thibaut Courtois,0,10177
+RealMadrid,Andriy Lunin,0,10178
+RealMadrid,Dani Carvajal,0,10179
+RealMadrid,Eder Militao,0,10180
+RealMadrid,Javi Hernandez,0,10181
+RealMadrid,Marcelo,0,10182
+RealMadrid,Ferland Mendy,0,10183
+RealMadrid,Miguel Gutierrez,0,10184
+RealMadrid,Nacho,0,10185
+RealMadrid,Sergio Ramos,0,10186
+RealMadrid,Raphael Varane,0,10187
+RealMadrid,Alberto Soro,0,10188
+RealMadrid,Brahim Diaz,0,10189
+RealMadrid,Casemiro,0,10190
+RealMadrid,Dani Ceballos,0,10191
+RealMadrid,Isco,0,10192
+RealMadrid,Toni Kroos,0,10193
+RealMadrid,Marco Asensio,0,10194
+RealMadrid,Luka Modric,0,10195
+RealMadrid,Oscar,0,10196
+RealMadrid,Martin Odegaard,0,10197
+RealMadrid,James Rodriguez,0,10198
+RealMadrid,Federico Valverde,0,10199
+RealMadrid,Gareth Bale,0,10200
+RealMadrid,Karim Benzema,0,10201
+RealMadrid,Borja Mayoral,0,10202
+RealMadrid,Eden Hazard,0,10203
+RealMadrid,Luka Jovic,0,10204
+RealMadrid,Lucas Vazquez,0,10205
+RealMadrid,Mariano,0,10206
+RealMadrid,Rodrygo,0,10207
+RealMadrid,Vinicius Junior,0,10208
+Juventus,Gianluigi Buffon,0,10209
+Juventus,Mattia Perin,0,10210
+Juventus,Carlo Pinsoglio,0,10211
+Juventus,Wojciech Szczesny,0,10212
+Juventus,Alex Sandro,0,10213
+Juventus,Pietro Beruatto,0,10214
+Juventus,Leonardo Bonucci,0,10215
+Juventus,Giorgio Chiellini,0,10216
+Juventus,Luca Coccolo,0,10217
+Juventus,Danilo,0,10218
+Juventus,Matthijs de Ligt,0,10219
+Juventus,Mattia De Sciglio,0,10220
+Juventus,Merih Demiral,0,10221
+Juventus,Luca Pellegrini,0,10222
+Juventus,Cristian Romero,0,10223
+Juventus,Daniele Rugani,0,10224
+Juventus,Wesley,0,10225
+Juventus,Arthur,0,10226
+Juventus,Nedim Bajrami,0,10227
+Juventus,Rodrigo Bentancur,0,10228
+Juventus,Paulo Dybala,0,10229
+Juventus,Sami Khedira,0,10230
+Juventus,Dejan Kulusevski,0,10231
+Juventus,Simone Muratore,0,10232
+Juventus,Daouda Peeters,0,10233
+Juventus,Miralem Pjanic,0,10234
+Juventus,Manolo Portanova,0,10235
+Juventus,Adrien Rabiot,0,10236
+Juventus,Aaron Ramsey,0,10237
+Juventus,Federico Bernardeschi,0,10238
+Juventus,Cristiano Ronaldo,0,10239
+Juventus,Juan Cuadrado,0,10240
+Juventus,Douglas Costa,0,10241
+Juventus,Gonzalo Higuain,0,10242
+Juventus,Marco Olivieri,0,10243
+Juventus,Marko Pjaca,0,10244
+Juventus,Giacomo Vrioni,0,10245
+Juventus,Luca Zanimacchia,0,10246
+Inter,Gabriel Brazao,0,10247
+Inter,Samir Handanovic,0,10248
+Inter,Daniele Padelli,0,10249
+Inter,Ionut Radu,0,10250
+Inter,Alessandro Bastoni,0,10251
+Inter,Cristiano Biraghi,0,10252
+Inter,Danilo D'Ambrosio,0,10253
+Inter,Dalbert,0,10254
+Inter,Stefan de Vrij,0,10255
+Inter,Federico Dimarco,0,10256
+Inter,Diego Godin,0,10257
+Inter,Andreaw Gravillon,0,10258
+Inter,Achraf Hakimi,0,10259
+Inter,Lorenzo Pirola,0,10260
+Inter,Andrea Ranocchia,0,10261
+Inter,Milan Skriniar,0,10262
+Inter,Ashley Young,0,10263
+Inter,Lucien Agoume,0,10264
+Inter,Kwadwo Asamoah,0,10265
+Inter,Nicolo Barella,0,10266
+Inter,Borja Valero,0,10267
+Inter,Marcelo Brozovic,0,10268
+Inter,Antonio Candreva,0,10269
+Inter,Christian Eriksen,0,10270
+Inter,Roberto Gagliardini,0,10271
+Inter,Jacopo Gianelli,0,10272
+Inter,Joao Mario,0,10273
+Inter,Victor Moses,0,10274
+Inter,Radja Nainggolan,0,10275
+Inter,Rigoberto Rivas Vindel,0,10276
+Inter,Stefano Sensi,0,10277
+Inter,Matias Vecino,0,10278
+Inter,Axel Bakayoko,0,10279
+Inter,Sebastiano Esposito,0,10280
+Inter,Samuele Longo,0,10281
+Inter,Romelu Lukaku,0,10282
+Inter,Lautaro Martinez,0,10283
+Inter,Eddie Salcedo,0,10284
+Inter,Alexis Sanchez,0,10285
+Inter,Edoardo Vergani,0,10286
+PSG,Alphonse Areola,0,10287
+PSG,Marcin Bulka,0,10288
+PSG,Denis Franchi,0,10289
+PSG,Garissone Innocent,0,10290
+PSG,Keylor Navas,0,10291
+PSG,Sergio Rico,0,10292
+PSG,Mitchel Bakker,0,10293
+PSG,Colin Dagba,0,10294
+PSG,Abdou Diallo,0,10295
+PSG,Juan Bernat,0,10296
+PSG,Thilo Kehrer,0,10297
+PSG,Presnel Kimpembe,0,10298
+PSG,Layvin Kurzawa,0,10299
+PSG,Marquinhos,0,10300
+PSG,Loic Mbe Soh,0,10301
+PSG,Timothee Pembele,0,10302
+PSG,Thiago Silva,0,10303
+PSG,Ander Herrera,0,10304
+PSG,Idrissa Gueye,0,10305
+PSG,Eduard Michut,0,10306
+PSG,Pablo Sarabia,0,10307
+PSG,Leandro Paredes,0,10308
+PSG,Kays Ruiz Atil,0,10309
+PSG,Marco Verratti,0,10310
+PSG,Eric Maxim Choupo-Moting,0,10311
+PSG,Angel Di Maria,0,10312
+PSG,Julian Draxler,0,10313
+PSG,Mauro Icardi,0,10314
+PSG,Jese,0,10315
+PSG,Kylian Mbappe,0,10316
+PSG,Arnaud Muinga,0,10317
+PSG,Neymar,0,10318
+OlympiqueMarseille,Ahmadou Dia,0,10319
+OlympiqueMarseille,Steve Mandanda,0,10320
+OlympiqueMarseille,Simon Ngapandouetnbu,0,10321
+OlympiqueMarseille,Yohann Pele,0,10322
+OlympiqueMarseille,Nassim Ahmed,0,10323
+OlympiqueMarseille,Alvaro Gonzalez,0,10324
+OlympiqueMarseille,Jordan Amavi,0,10325
+OlympiqueMarseille,Leonardo Balerdi,0,10326
+OlympiqueMarseille,Duje Caleta-Car,0,10327
+OlympiqueMarseille,Boubacar Kamara,0,10328
+OlympiqueMarseille,Aaron Kamardin,0,10329
+OlympiqueMarseille,Abdallah Mohamed,0,10330
+OlympiqueMarseille,Lucas Perrin,0,10331
+OlympiqueMarseille,Richecard Richard,0,10332
+OlympiqueMarseille,Christopher Rocchia,0,10333
+OlympiqueMarseille,Hiroki Sakai,0,10334
+OlympiqueMarseille,Bouna Sarr,0,10335
+OlympiqueMarseille,Ugo Bertelli,0,10336
+OlympiqueMarseille,Florian Chabrolle,0,10337
+OlympiqueMarseille,Pape Alassane Gueye,0,10338
+OlympiqueMarseille,Saif-Eddine Khaoui,0,10339
+OlympiqueMarseille,Maxime Lopez,0,10340
+OlympiqueMarseille,Dimitri Payet,0,10341
+OlympiqueMarseille,Alexandre Philiponeau,0,10342
+OlympiqueMarseille,Valentin Rongier,0,10343
+OlympiqueMarseille,Morgan Sanson,0,10344
+OlympiqueMarseille,Kevin Strootman,0,10345
+OlympiqueMarseille,Marley Ake,0,10346
+OlympiqueMarseille,Dario Benedetto,0,10347
+OlympiqueMarseille,Valere Germain,0,10348
+OlympiqueMarseille,Kostas Mitroglou,0,10349
+OlympiqueMarseille,Nemanja Radonjic,0,10350
+OlympiqueMarseille,Jores Rahou,0,10351
+OlympiqueMarseille,Cheick Souare,0,10352
+OlympiqueMarseille,Florian Thauvin,0,10353
